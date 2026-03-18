@@ -1,4 +1,4 @@
-cimport java.util.*;
+import java.util.*;
 class FindMissingNum {
   static  int missingNum(int arr[]) {
         
